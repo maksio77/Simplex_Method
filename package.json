@@ -1,0 +1,14 @@
+{
+  "name": "simplexmethod",
+  "version": "1.0.0",
+  "description": "simplex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "numeric": "^1.2.6"
+  }
+}

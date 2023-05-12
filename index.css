@@ -1,0 +1,45 @@
+h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  width: 150%;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button:hover {
+  background-color: #2E8B57;
+}
+
+#result {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: bold;
+}
